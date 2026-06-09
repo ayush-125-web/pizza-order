@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import { motion, transform } from 'framer-motion';
+import { motion } from 'framer-motion';
 
 export const nextButtonVarient={
   hidden:{
